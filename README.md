@@ -24,7 +24,7 @@ portfolio/
 │
 ├── index.html
 ├── style.css
-├── script.js
+├── hey.js
 └── images
 ```
 
