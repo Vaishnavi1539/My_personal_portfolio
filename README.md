@@ -11,6 +11,10 @@ A responsive **Personal Portfolio Website** built using **HTML, CSS, and JavaScr
 * Contact section for communication
 * Simple and modern design
 
+  
+## 🚀Live demo
+https://vaishnavi1539.github.io/My_personal_portfolio/
+
 ## 🛠️ Technologies Used
 
 * **HTML5** – Structure of the website
@@ -19,28 +23,13 @@ A responsive **Personal Portfolio Website** built using **HTML, CSS, and JavaScr
 
 ## 📂 Project Structure
 
-```
 portfolio/
 │
 ├── index.html
 ├── style.css
 ├── hey.js
 └── images
-```
 
-## 📸 Sections Included
-
-* **Home** – Introduction and overview
-* **About Me** – Information about me and my background
-* **Skills** – Technologies and tools I know
-* **Projects** – Some of my featured projects
-* **Contact** – Ways to connect with me
-
-## ▶️ How to Run the Project
-
-1. Download or clone this repository
-2. Open the project folder
-3. Run the `index.html` file in your browser
 
 If you like this project, feel free to ⭐ the repository.
 
