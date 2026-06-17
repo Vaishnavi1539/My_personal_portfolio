@@ -1,16 +1,16 @@
+:root{
+    --nav-height: 120px;
+}
+
+
 html{
     scroll-behavior: smooth;
+    scroll-padding-top: 90px;
 }
 
 section{
-    scroll-margin-top:120px;
+    scroll-margin-top:90px;
 }
-
-
-
-
-
-
 
 *{
     margin: 0;
@@ -26,11 +26,12 @@ section{
 }
     body{
     color:#ededed;
-    background:url("https://img.freepik.com/premium-vector/shining-crooked-illustration-marble-style_6869-1462.jpg");
+    background:url("https://www.shutterstock.com/image-vector/abstract-dark-background-silk-satin-600nw-2724098711.jpg");
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
     min-height:100vh;
+    padding-top: 90px;
 }
 
 
@@ -40,7 +41,8 @@ section{
     left:0;
     width:100%;
     padding:20px 10%;
-    background:#051129;
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(10px);
     display:flex;
     justify-content:space-between;
     align-items:center;
@@ -224,7 +226,7 @@ margin-bottom:20px;
     border-radius: 20px;
     transition: background 0.5s, transform 0.5s;
     box-shadow:1px 1px 40px #012290f7,1px 1px 40px #012290f7;
-    background: #382669;
+    background: #020103;
 }
 .services-list div{
     font-size:15px;
@@ -269,7 +271,9 @@ box-shadow:0 0 5px cyan,
  .section{
     display:flex;
     flex-wrap:wrap;
-    scroll-margin-top:80px;
+    section{
+    scroll-margin-top:100px;
+}
 
  }
  .container1{
@@ -729,4 +733,4 @@ box-shadow:0 0 5px cyan,
     .contact form #hello{
         width:100%;
     }
-}
+} ye lo mera css bina koi extra changes ke bus wo navbar wala issue correct krke code do
